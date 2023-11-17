@@ -1,0 +1,13 @@
+SPL被保存的路径: C:\Users\你的用户名\AppData\Local\ --->找到cs106
+QT清华源(网速快):      --mirror https://mirrors.tuna.tsinghua.edu.cn/qt
+一个106B的仓库: https://gitee.com/citianzhao/stanford-cs106-b-assignment
+
+QT的下载                         ->在CS106B的最新官网处查看
+使用Qt进行DEBUG           ->在CS106B的最新官网处查看
+单元测试的教程                ->在CS106B的最新官网处查看
+C++代码风格                   ->在CS106B的最新官网处查看
+建议: 做2022Winter的作业(因为我们最全的资源, 就是2021SPL和2021的lab)
+
+
+
+
