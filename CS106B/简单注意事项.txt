@@ -1,4 +1,4 @@
-默认的SPL被保存的路径: C:\Users\你的用户名\AppData\Local\ --->找到cs106
+ 默认的SPL被保存的路径: C:\Users\你的用户名\AppData\Local\ --->找到cs106
 QT清华源(网速快):      --mirror https://mirrors.tuna.tsinghua.edu.cn/qt
 一个106B的仓库: https://gitee.com/citianzhao/stanford-cs106-b-assignment
 
