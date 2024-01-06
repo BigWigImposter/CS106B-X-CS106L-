@@ -1,2 +1,5 @@
 # ignore all the .user files
 *.user
+
+# 有中文路径................, 
+./SPL(斯坦福C++库)/*.user
